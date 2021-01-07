@@ -1,0 +1,21 @@
+0. TWS official documentation
+   a) https://interactivebrokers.github.io/tws-api/introduction.html
+   
+1. Rob Carver's blog - lots of informaiton and example here
+   a) https://qoppac.blogspot.com/2017/03/interactive-brokers-native-python-api.html 
+
+2. Online repositories
+   a) https://github.com/robcarver17/             #Rob Carver's
+   b) https://github.com/erdewit/ib_insync        #insync library an async framework
+
+
+3. Discussion groups
+   a) https://groups.io/g/twsapi   #discussions around IB's TWS API
+   b) https://groups.io/g/insync   #advanced topics around an asynchonous framework to work with TWS API
+   
+   
+4. Data sources 
+   a) https://www.alphavantage.co/
+   b) https://iextrading.com/
+   c) IB API
+   d) https://www.reddit.com/r/wallstreetbets/   #sentiment analysis
